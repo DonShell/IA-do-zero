@@ -1,0 +1,5 @@
+prev[0] = { v:0 , o:1}
+prev[1] = { v:2 , o:1}
+prev[2] = { v:2 , o:1}
+prev[3] = { v:1 , o:1}
+1 pontos para 02 pontos para 21 pontos para 1score: 4
