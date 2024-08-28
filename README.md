@@ -6,12 +6,19 @@ Este é um pequeno modelo o qual você digita manualmente uma sequancia de carac
 Este modelo está em branco, não possui conhecimento prévio do dicionario ou de quaisquer regras de logica ou gramatica, mas pode ser adaptado para tais análises.
 
 !Exemplo de uso!
+
 faremos duas sequencias simples de palavras
+
 'codigo'
+
 'de'
+
 'cor'
+
 (apague os arquivos .txt)
-no Console/Shell
+
+no Console/Shell:
+
 ```
 >python3 .\nucleo.py
 digite um valor de entrada '{}' para sequencia programada:
